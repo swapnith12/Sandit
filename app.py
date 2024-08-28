@@ -17,7 +17,7 @@ supabase: Client = create_client(url, key)
 # data = supabase.auth.sign_in_with_oauth({
 #   "provider": 'google',
 #   "Key" : oath_key
-# })
+# }) 
 # print(data)
 
 # # sign out 
